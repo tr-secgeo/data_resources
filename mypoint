@@ -5,7 +5,7 @@
       "id":1,
       "type": "Feature",
       "properties": {
-        "usage":"tree"
+        "usage":"car"
       },
       "geometry": {
         "coordinates": [26.421260118806, 40.1131223262863],
