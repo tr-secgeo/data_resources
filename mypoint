@@ -490,6 +490,7 @@
         ],
         "type": "Point"
       }
+    },
     {
       "id":1,
       "type": "Feature",
