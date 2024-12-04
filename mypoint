@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
  {
+     "id":101,
       "type": "Feature",
       "properties": {
         "usage": "tree"
@@ -13,9 +14,9 @@
         ],
         "type": "Point"
       },
-      "id": 7
     },
     {
+      "id":102,
       "type": "Feature",
       "properties": {
         "usage": "tree"
@@ -27,12 +28,12 @@
         ],
         "type": "Point"
       },
-      "id": 8
     },
     {
+     "id":103, 
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -43,9 +44,10 @@
       }
     },
     {
+      "id":104,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -56,9 +58,10 @@
       }
     },
     {
+      "id":105,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -69,9 +72,10 @@
       }
     },
     {
+      "id":106,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -82,9 +86,10 @@
       }
     },
     {
+      "id":107,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -95,9 +100,10 @@
       }
     },
     {
+      "id":108,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -108,9 +114,10 @@
       }
     },
     {
+      "id":109,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -121,9 +128,10 @@
       }
     },
     {
+      "id":110,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -134,9 +142,10 @@
       }
     },
     {
+      "id":111,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -147,9 +156,10 @@
       }
     },
     {
+      "id":112,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -160,9 +170,10 @@
       }
     },
     {
+      "id":113,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -173,9 +184,10 @@
       }
     },
     {
+      "id":114,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -186,9 +198,10 @@
       }
     },
     {
+      "id":115,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -199,9 +212,10 @@
       }
     },
     {
+      "id":116,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -212,9 +226,10 @@
       }
     },
     {
+      "id":117,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -225,9 +240,10 @@
       }
     },
     {
+      "id":118,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -238,9 +254,10 @@
       }
     },
     {
+      "id":119,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -251,9 +268,10 @@
       }
     },
     {
+      "id":120,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -264,9 +282,10 @@
       }
     },
     {
+      "id":121,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -277,9 +296,10 @@
       }
     },
     {
+      "id":122,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -290,9 +310,10 @@
       }
     },
     {
+      "id":123,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -303,9 +324,10 @@
       }
     },
     {
+      "id":124,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -316,9 +338,10 @@
       }
     },
     {
+      "id":125,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -329,9 +352,10 @@
       }
     },
     {
+      "id":126,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -342,9 +366,10 @@
       }
     },
     {
+      "id":127,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -355,9 +380,10 @@
       }
     },
     {
+      "id":128,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -368,9 +394,10 @@
       }
     },
     {
+      "id":129,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -381,9 +408,10 @@
       }
     },
     {
+      "id":130,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -394,9 +422,10 @@
       }
     },
     {
+      "id":131,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -407,9 +436,10 @@
       }
     },
     {
+      "id":132,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -420,9 +450,10 @@
       }
     },
     {
+      "id":133,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -433,9 +464,10 @@
       }
     },
     {
+      "id":134,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
@@ -446,9 +478,10 @@
       }
     },
     {
+      "id":135,
       "type": "Feature",
       "properties": {
-"usage":"tree"
+        "usage":"tree"
       },
       "geometry": {
         "coordinates": [
