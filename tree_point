@@ -1,19 +1,16 @@
 {
   "type": "FeatureCollection",
   "features": [
-     {
+    {
      "id":101,
       "type": "Feature",
       "properties": {
         "usage": "tree"
       },
       "geometry": {
-        "coordinates": [
-          33.99264739097018,
-          38.41412381716165
-        ],
+        "coordinates": [33.99264739097018,38.41412381716165],
         "type": "Point"
-      },
+      }
     },
     {
       "id":102,
@@ -27,7 +24,7 @@
           38.41413765042546
         ],
         "type": "Point"
-      },
+      }
     },
     {
      "id":103, 
@@ -503,8 +500,7 @@
           38.41424996479401
         ],
         "type": "Point"
-      },
-      
-    },
+      } 
+    }
   ]
 }
