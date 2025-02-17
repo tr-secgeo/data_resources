@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id":1001,
+      "type": "Feature",
+      "properties": {
+        "soket": "DC - 90KW"
+        "tarife": "9.90 TL/kWh <=60kW, 60kW < 11.90 TL/kWh"
+        "adres": "Ahsaray Otel - Taşpazar Mah. E-90 Karayolu Cd. No:1, Aksaray 68100 Türkiye"
+      },
+      "geometry": {
+        "coordinates": [
+           34.008086,
+           38.364991 
+        ],
+        "type": "Point"
+      }
+    },
+     {
+      "id":1002,
+      "type": "Feature",
+      "properties": {
+        "soket": "DC - 120KW"
+        "tarife": "9.90 TL/kWh <=60kW, 60kW < 11.90 TL/kWh"
+        "adres": "Bayraktarlar Otomotiv - Aratol İstiklal Mah. 135. Necmettin Erbakan Bulv. No:65, Merkez,  Aksaray 68100 Türkiye"
+      },
+      "geometry": {
+        "coordinates": [
+          33.974017,
+          38.338708  
+        ],
+        "type": "Point"
+      }
+    },
+      {
+      "id":1003,
+      "type": "Feature",
+      "properties": {
+        "soket": "DC - 120KW"
+        "tarife": "9.90 TL/kWh <=60kW, 60kW < 11.90 TL/kWh"
+        "adres": "Grand Altuntaş Otel - Aratol İstiklal Mah. 135. Necmettin Erbakan Bulv. No:65, Merkez,  Aksaray 68100 Türkiye"
+      },
+      "geometry": {
+        "coordinates": [
+         34.0269556, 
+         38.4017801 
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "id":1004,
+      "type": "Feature",
+      "properties": {
+        "soket": "DC - 180KW"
+        "tarife": "9.90 TL/kWh <=60kW, 60kW < 11.90 TL/kWh"
+        "adres": "Aksaray Organize Sanayi Müdürlüğü - Sağlık,  Aksaray 68100 Türkiye"
+      },
+      "geometry": {
+        "coordinates": [
+         33.9965045,
+         38.2660819
+        ],
+        "type": "Point"
+      }
+    },
+  ]
+}
